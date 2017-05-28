@@ -1,0 +1,100 @@
+<application>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/Cellar/node/7.10.0/bin/node">
+      <version-cache version="7.10.0" last-modified="1493954532000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.10.2" last-modified="1492060029000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <Gitlab shared="false" url="https://gitlab.spice.spiceworks.com">
+      <commitMessageFormat>{id}</commitMessageFormat>
+      <option name="currentProject">
+        <GitlabProject id="-1" />
+      </option>
+      <password>dff9dff8df9cdfd3dffadfecdff5dfc0dffcdfe9dfe6dfdbdfd0dfffdff8dff8dfcddfd3dfefdff0</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Gitlab>
+    <YouTrack shared="false" url="http://mccool.myjetbrains.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="Assignee: me sort by: updated" />
+      <password>dfe2dfe4dfd2dfeddfe9dfdedf9cdfeddfe4dffcdf99dff0dfc3dfd1dfc9df92dfe6dfd1dfecdfe2df8edf93dfccdfdedfe7dff3dfffdfe6dfe4dfccdfe7dfefdfc9dfe8dfdfdfe9dfcbdfe9dfd9dfc1dff3dfe1dfc8dfc3dfdfdf84dfe0df9ddfdbdfd0</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>blake</username>
+    </YouTrack>
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>#{number}</commitMessageFormat>
+      <password />
+      <token>dfc8df9edfc9df99df98dfccdf9bdf9edf9edfc9dfcedf9bdf99dfc9dfc8df9cdf9bdf98df9cdfc9df9fdf9bdfcfdf9ddfc8df9fdfc9df9adf9edfc8dfcedf9ddfccdf93df93dfccdf93df9adfcedf92</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="adventhp" />
+      <option name="repoName" value="cavo" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+    <YouTrack shared="false" url="https://cavo.myjetbrains.com/youtrack">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="" />
+      <password>dff8dffadfd2dfdfdfeddffcdffddf93dfeddfccdf97dfeddffadfecdfd9dfe4dfcfdfc8dfc0dfc3dfcbdfeddf8edfd7dfc2dff8df84dffbdf98df81</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>root</username>
+    </YouTrack>
+    <YouTrack shared="true" url="http://mccool.myjetbrains.com/youtrack">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="Assignee: me sort by: updated" />
+      <password>dfe2dfe4dfd2dfeddfe9dfdedf9cdfeddfe4dffcdf99dff0dfc3dfd1dfc9df92dfe6dfd1dfecdfe2df8edf93dfccdfdedfe7dff3dfffdfe6dfe4dfccdfe7dfefdfc9dfe8dfdfdfe9dfcbdfe9dfd9dfc1dff3dfe1dfc8dfc3dfdfdf84dfe0df9ddfdbdfd0</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>blake</username>
+    </YouTrack>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://teamcity.cavo.io&amp;^%$#@mccool" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>

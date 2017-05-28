@@ -1,0 +1,5 @@
+<application>
+  <component name="NodeJSRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker://adventhp/cavo:beta/node" DOCKER_ACCOUNT_NAME="Local Docker" DOCKER_IMAGE_NAME="adventhp/cavo:beta" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="" />
+  </component>
+</application>
