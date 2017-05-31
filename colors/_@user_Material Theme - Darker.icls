@@ -4,13 +4,14 @@
     <property name="created">2017-05-27T09:20:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-05-27T09:30:39</property>
+    <property name="modified">2017-05-30T22:31:03</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -52,6 +53,7 @@
     <option name="SELECTED_INDENT_GUIDE" value="676767" />
     <option name="SELECTED_TEARLINE_COLOR" value="616161" />
     <option name="SELECTION_BACKGROUND" value="35404a" />
+    <option name="SELECTION_FOREGROUND" value="92c0d7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="303030" />
     <option name="WHITESPACES" value="616161" />
