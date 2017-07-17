@@ -1,8 +1,12 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
     <keyboard-shortcut first-keystroke="meta alt 1" />
   </action>
   <action id="ExpandAllToLevel2">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="2" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad2" />
     <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>
   <action id="ExpandAllToLevel3">
@@ -34,9 +38,5 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
-  </action>
-  <action id="ToggleFullScreen" />
-  <action id="floobits.actions.FloobitsWindow">
-    <keyboard-shortcut first-keystroke="meta 8" />
   </action>
 </keymap>
