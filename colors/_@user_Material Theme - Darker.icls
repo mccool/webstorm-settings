@@ -1,15 +1,15 @@
 <scheme name="_@user_Material Theme - Darker" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-05-27T09:20:04</property>
+    <property name="created">2017-05-31T07:41:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-05-30T22:31:03</property>
+    <property name="modified">2017-05-31T07:53:48</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
@@ -17,7 +17,7 @@
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="20272d" />
+    <option name="CARET_ROW_COLOR" value="181818" />
     <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c" />
@@ -41,7 +41,7 @@
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
-    <option name="GUTTER_BACKGROUND" value="263238" />
+    <option name="GUTTER_BACKGROUND" value="212121" />
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="212121" />
     <option name="LINE_NUMBERS_COLOR" value="424242" />
@@ -52,8 +52,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="676767" />
     <option name="SELECTED_TEARLINE_COLOR" value="616161" />
-    <option name="SELECTION_BACKGROUND" value="35404a" />
-    <option name="SELECTION_FOREGROUND" value="92c0d7" />
+    <option name="SELECTION_BACKGROUND" value="353535" />
+    <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="303030" />
     <option name="WHITESPACES" value="616161" />
@@ -816,7 +816,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="414446" />
+        <option name="EFFECT_COLOR" value="fffbf7" />
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
     </option>
@@ -1847,7 +1847,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="eeffff" />
-        <option name="BACKGROUND" value="263238" />
+        <option name="BACKGROUND" value="212121" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

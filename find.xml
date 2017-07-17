@@ -4,19 +4,36 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*</mask>
-      <mask>*.ts,*.html</mask>
+      <mask>*.html=</mask>
+      <mask>.sc</mask>
+      <mask>.s</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>*.HT</mask>
+      <mask>*.HTM</mask>
+      <mask>*.HTML</mask>
+      <mask>.js</mask>
+      <mask>.</mask>
+      <mask>.ht</mask>
+      <mask>.html</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*~</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scss</mask>
+      <mask>*.scs</mask>
       <mask>*.tsx</mask>
       <mask>*.ts</mask>
-      <mask>*.css</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>

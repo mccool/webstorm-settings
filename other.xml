@@ -1,0 +1,83 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/WebstormProjects/cavo2/node_modules/.bin/ts-node">
+      <version-cache last-modified="1493941257000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.10.0/bin/node">
+      <version-cache version="7.10.0" last-modified="1494356808000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.9.0/bin/node">
+      <version-cache version="7.9.0" last-modified="1493310816000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.8.0/bin/node">
+      <version-cache version="7.8.0" last-modified="1491837121000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.10.2" last-modified="1497280788000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <Gitlab shared="false" url="https://gitlab.spice.spiceworks.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <GitlabProject id="1606" />
+      </option>
+      <password>dfcbdfc9dfdfdfe0dffddfdadfc9dfd0dfc8dfe8dfdbdfdedff8dfc2dfe6dfd3dff8dff3dfdcdfc0</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Gitlab>
+    <JIRA shared="false" url="http://localhost:8080">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfd1dfe9dfcbdfd8dfc5dfc6dfc3dfc4dfcfdf92df9fdfd7</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="7.2.2" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>Blake</username>
+    </JIRA>
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>#{number} {summary}</commitMessageFormat>
+      <password />
+      <token>df9fdfcedf9fdf9edf99dfcedf98dfcedf99df9cdf9bdf92dfc9df9fdf9edfc9df99dfcfdf93dfc8dfcbdfcedfcbdf9cdf9cdfcedf9adf9bdfcbdf9bdfcedf92df9adfccdfc9dfcedf98dfcbdfcbdfcb</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="adventhp" />
+      <option name="repoName" value="cavo" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://teamcity-server-e6c535b5-1.cavo-test.abe1739b.cont.dockerapp.io:8111&amp;^%$#@mccool@#$%^&amp;http://teamcity.cavo.io:8111&amp;^%$#@mccool@#$%^&amp;http://teamcity.cavo.io&amp;^%$#@mccool" />
+  </component>
+</application>

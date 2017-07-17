@@ -1,14 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="ocr/Dockerfile" type="Docker file" />
-      <mapping pattern="dev/Dockerfile" type="Docker file" />
-      <mapping pattern="base/Dockerfile" type="Docker file" />
+      <mapping pattern="web/dockerfile" type="Docker file" />
       <mapping ext="dockerfile" type="Docker file" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="build" type="Docker file" />
+      <mapping pattern="dockerfile" type="Dockerfile" />
+      <mapping pattern=".docker/webapp.dockerfile" type="Dockerfile" />
+      <mapping pattern="www" type="JavaScript" />
+      <mapping pattern="mazoea_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="keys/mazoea_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
