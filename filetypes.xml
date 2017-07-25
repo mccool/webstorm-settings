@@ -11,7 +11,6 @@
       <mapping pattern="keys/mazoea_rsa" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
     </extensionMap>
