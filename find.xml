@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.html=</mask>
@@ -21,9 +21,7 @@
       <mask>.</mask>
       <mask>.ht</mask>
       <mask>.html</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
-      <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*~</mask>
       <mask>*.j</mask>
@@ -32,11 +30,13 @@
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.tsx</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
