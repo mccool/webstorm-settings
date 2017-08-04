@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.html=</mask>
@@ -24,7 +22,6 @@
       <mask>*.htm</mask>
       <mask>*.h</mask>
       <mask>*~</mask>
-      <mask>*.j</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scss</mask>
@@ -34,9 +31,10 @@
       <mask>*.html</mask>
       <mask>*</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
       <mask>*.ts</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
