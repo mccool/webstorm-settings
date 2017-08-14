@@ -3,38 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.html,*.ts" />
     <recentFileMasks>
-      <mask>*.html=</mask>
-      <mask>.sc</mask>
-      <mask>.s</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.HT</mask>
-      <mask>*.HTM</mask>
-      <mask>*.HTML</mask>
-      <mask>.js</mask>
-      <mask>.</mask>
-      <mask>.ht</mask>
-      <mask>.html</mask>
-      <mask>*.htm</mask>
       <mask>*.h</mask>
       <mask>*~</mask>
       <mask>*.sc</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.tsx</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>*</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jts</mask>
       <mask>*.js</mask>
       <mask>*.s</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.{htm</mask>
+      <mask>*.{html,ts}</mask>
+      <mask>*.{html,ts</mask>
+      <mask>*.{html,t</mask>
+      <mask>*.{html,</mask>
+      <mask>*.{html</mask>
+      <mask>*.{ht</mask>
+      <mask>*.{h</mask>
+      <mask>*.{</mask>
+      <mask>*.</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
+      <mask>*.html,</mask>
+      <mask>*.html,*</mask>
+      <mask>*.html,*.t</mask>
+      <mask>*.html,*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
