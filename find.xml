@@ -2,37 +2,39 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.html=</mask>
-      <mask>.sc</mask>
-      <mask>.s</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.HT</mask>
-      <mask>*.HTM</mask>
-      <mask>*.HTML</mask>
-      <mask>.js</mask>
-      <mask>.</mask>
-      <mask>.ht</mask>
-      <mask>.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.h</mask>
-      <mask>*~</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.tsx</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>*</mask>
-      <mask>*.t</mask>
+      <mask>*.jts</mask>
+      <mask>*.{htm</mask>
+      <mask>*.{html,ts}</mask>
+      <mask>*.{html,ts</mask>
+      <mask>*.{html,t</mask>
+      <mask>*.{html,</mask>
+      <mask>*.{html</mask>
+      <mask>*.{ht</mask>
+      <mask>*.{h</mask>
+      <mask>*.{</mask>
+      <mask>*.html,</mask>
+      <mask>*.html,*.ts</mask>
+      <mask>*.html,*.t</mask>
+      <mask>*.html,*.</mask>
+      <mask>*.html,*</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.s</mask>
       <mask>*.ts</mask>
-      <mask>*.</mask>
+      <mask>*.t</mask>
       <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
