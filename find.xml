@@ -3,11 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.tsx</mask>
       <mask>*.jts</mask>
@@ -29,14 +29,15 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.s</mask>
-      <mask>*.t</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.html</mask>
       <mask>*.jsx</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
