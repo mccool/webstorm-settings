@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/adventhp/medium-editor-auto-style-extension.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.spice.spiceworks.com:client-creative-services/Sharp-interactiveinfog-6Things.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
