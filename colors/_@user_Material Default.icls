@@ -4,20 +4,21 @@
     <property name="created">2017-11-01T09:31:33</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-11-01T15:15:29</property>
+    <property name="modified">2017-11-01T20:41:50</property>
     <property name="originalScheme">Material Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -1725,7 +1726,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -1735,7 +1736,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="884973" />
+        <option name="FOREGROUND" value="884a74" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_SMARTS">
@@ -1745,7 +1746,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_SPECIAL_TEXT">
       <value>
-        <option name="FOREGROUND" value="619173" />
+        <option name="FOREGROUND" value="619274" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ITALIC_TEXT_SMARTS">
@@ -1765,7 +1766,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -1775,7 +1776,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_QUOTED_TEXT_SPECIAL_TEXT">
@@ -1852,7 +1853,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -1882,7 +1883,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -1955,12 +1956,12 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_HEADER_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="6c7c47" />
+        <option name="FOREGROUND" value="6b7c47" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_HEADER_TEXT_BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="82497e" />
+        <option name="FOREGROUND" value="82497d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_HEADER_TEXT_HTML_ENTITY">
@@ -1975,7 +1976,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_HEADER_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="82497e" />
+        <option name="FOREGROUND" value="82497d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_HEADER_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -2000,7 +2001,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="6c7c47" />
+        <option name="FOREGROUND" value="6b7c47" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_HEADER_TEXT_STRIKETHROUGH_TEXT_HTML_ENTITY">
@@ -2015,12 +2016,12 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_HEADER_TEXT_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="6c7c47" />
+        <option name="FOREGROUND" value="6b7c47" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_HEADER_TEXT_STRIKETHROUGH_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="82497e" />
+        <option name="FOREGROUND" value="82497d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_HTML_ENTITY">
@@ -2056,7 +2057,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -2096,7 +2097,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -2106,7 +2107,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_QUOTED_TEXT_SPECIAL_TEXT">
@@ -2208,7 +2209,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="6c7c47" />
+        <option name="FOREGROUND" value="6b7c47" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_SMARTS">
@@ -2238,7 +2239,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -2305,7 +2306,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -2335,7 +2336,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -2396,7 +2397,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -2406,7 +2407,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.ITALIC_TEXT_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.ITALIC_TEXT_QUOTED_TEXT_SPECIAL_TEXT">
@@ -2543,7 +2544,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -2553,7 +2554,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="884973" />
+        <option name="FOREGROUND" value="884a74" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_SMARTS">
@@ -2563,7 +2564,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_SPECIAL_TEXT">
       <value>
-        <option name="FOREGROUND" value="619173" />
+        <option name="FOREGROUND" value="619274" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_BOLD_TEXT_SMARTS">
@@ -2620,7 +2621,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -2630,7 +2631,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="884973" />
+        <option name="FOREGROUND" value="884a74" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_SMARTS">
@@ -2640,7 +2641,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_SPECIAL_TEXT">
       <value>
-        <option name="FOREGROUND" value="619173" />
+        <option name="FOREGROUND" value="619274" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_ITALIC_TEXT_SMARTS">
@@ -2660,7 +2661,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -2670,7 +2671,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_QUOTED_TEXT_SPECIAL_TEXT">
@@ -2786,7 +2787,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -2816,7 +2817,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_BOLD_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -2992,7 +2993,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -3085,7 +3086,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_QUOTED_TEXT_HTML_ENTITY">
@@ -3095,7 +3096,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_QUOTED_TEXT_SPECIAL_TEXT">
@@ -3257,7 +3258,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="6c7c47" />
+        <option name="FOREGROUND" value="6b7c47" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_SMARTS">
@@ -3287,7 +3288,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -3364,7 +3365,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -3394,7 +3395,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -3560,7 +3561,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -3590,7 +3591,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_BOLD_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -3766,7 +3767,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -3859,7 +3860,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_QUOTED_TEXT_HTML_ENTITY">
@@ -3869,7 +3870,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_QUOTED_TEXT_SPECIAL_TEXT">
@@ -4031,7 +4032,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="6c7c47" />
+        <option name="FOREGROUND" value="6b7c47" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_SMARTS">
@@ -4061,7 +4062,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -4138,7 +4139,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -4168,7 +4169,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -4334,7 +4335,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -4364,7 +4365,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_BOLD_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -4540,7 +4541,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -4633,7 +4634,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_QUOTED_TEXT_HTML_ENTITY">
@@ -4643,7 +4644,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_QUOTED_TEXT_SPECIAL_TEXT">
@@ -4805,7 +4806,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="6c7c47" />
+        <option name="FOREGROUND" value="6b7c47" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_SMARTS">
@@ -4835,7 +4836,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -4912,7 +4913,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -4942,7 +4943,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -5108,7 +5109,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -5138,7 +5139,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BOLD_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -5314,7 +5315,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -5407,7 +5408,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_QUOTED_TEXT_HTML_ENTITY">
@@ -5417,7 +5418,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_QUOTED_TEXT_SPECIAL_TEXT">
@@ -5579,7 +5580,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="6c7c47" />
+        <option name="FOREGROUND" value="6b7c47" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_SMARTS">
@@ -5609,7 +5610,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -5686,7 +5687,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -5716,7 +5717,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_STRIKETHROUGH_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_STRIKETHROUGH_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -5882,7 +5883,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -5912,7 +5913,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BOLD_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -6088,7 +6089,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -6181,7 +6182,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_QUOTED_TEXT_HTML_ENTITY">
@@ -6191,7 +6192,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_QUOTED_TEXT_SPECIAL_TEXT">
@@ -6353,7 +6354,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="6c7c47" />
+        <option name="FOREGROUND" value="6b7c47" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_SMARTS">
@@ -6383,7 +6384,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -6460,7 +6461,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -6490,7 +6491,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_STRIKETHROUGH_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -6656,7 +6657,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -6686,7 +6687,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BOLD_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -6862,7 +6863,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -6955,7 +6956,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_QUOTED_TEXT_HTML_ENTITY">
@@ -6965,7 +6966,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_QUOTED_TEXT_SPECIAL_TEXT">
@@ -7127,7 +7128,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="6c7c47" />
+        <option name="FOREGROUND" value="6b7c47" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_SMARTS">
@@ -7157,7 +7158,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -7234,7 +7235,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -7264,7 +7265,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_STRIKETHROUGH_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -7430,7 +7431,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -7460,7 +7461,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BOLD_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -7636,7 +7637,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -7729,7 +7730,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_QUOTED_TEXT_HTML_ENTITY">
@@ -7739,7 +7740,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_QUOTED_TEXT_SPECIAL_TEXT">
@@ -7901,7 +7902,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="6c7c47" />
+        <option name="FOREGROUND" value="6b7c47" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_SMARTS">
@@ -7931,7 +7932,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -8008,7 +8009,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -8038,7 +8039,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_STRIKETHROUGH_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -8204,7 +8205,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -8234,7 +8235,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BOLD_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -8410,7 +8411,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
@@ -8503,7 +8504,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_QUOTED_TEXT_HTML_ENTITY">
@@ -8513,7 +8514,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_QUOTED_TEXT_SPECIAL_TEXT">
@@ -8675,7 +8676,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="6c7c47" />
+        <option name="FOREGROUND" value="6b7c47" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT_SMARTS">
@@ -8705,7 +8706,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -8782,7 +8783,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
       <value>
-        <option name="FOREGROUND" value="486b85" />
+        <option name="FOREGROUND" value="496b85" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT_HTML_ENTITY">
@@ -8812,7 +8813,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_STRIKETHROUGH_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="7b846d" />
+        <option name="FOREGROUND" value="7a846d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_STRIKETHROUGH_TEXT_QUOTED_TEXT_ABBREVIATED_TEXT">
