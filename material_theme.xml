@@ -1,6 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="accentColor" value="f44336" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="compactSidebar" value="true" />
+    <option name="statusBarTheme" value="false" />
     <option name="defaultBackground" value="" />
   </component>
 </application>
