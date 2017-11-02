@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="accentColor" value="f44336" />
-    <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="" />
   </component>
 </application>
