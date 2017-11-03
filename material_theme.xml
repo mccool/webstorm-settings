@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="accentColor" value="009688" />
+    <option name="compactSidebar" value="true" />
+    <option name="statusBarTheme" value="false" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="defaultBackground" value="" />
+  </component>
+</application>
