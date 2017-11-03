@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="f44336" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="accentColor" value="FFD700" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
