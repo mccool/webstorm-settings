@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.{html</mask>
       <mask>*.{ht</mask>
@@ -24,19 +22,19 @@
       <mask>*.jsx</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*</mask>
-      <mask>.</mask>
       <mask>.s</mask>
       <mask>.sc</mask>
       <mask>.scs</mask>
       <mask>.scss</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
