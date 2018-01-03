@@ -58,6 +58,14 @@
           <option name="url" value="https://github.com/adventhp/cavo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.spice.spiceworks.com:client-creative-services/Lenovo-interactivemap-DCG_HPC.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:adventhp/auth0-deployments.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/advent" />
