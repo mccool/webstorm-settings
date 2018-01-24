@@ -21,7 +21,6 @@
       <mask>*.html</mask>
       <mask>*.jsx</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>.s</mask>
       <mask>.sc</mask>
       <mask>.scs</mask>
@@ -32,8 +31,9 @@
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.s</mask>
       <mask>*.t</mask>
+      <mask>*.s</mask>
+      <mask>*.js</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
   </component>
