@@ -66,9 +66,13 @@
           <option name="url" value="git@github.com:adventhp/auth0-deployments.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.spice.spiceworks.com:client-creative-services/Sharp-interactivetool-OfficeOfFuture.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/advent" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/spiceworks" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
