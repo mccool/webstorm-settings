@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="web/dockerfile" type="Docker file" />
+      <mapping ext="dockerfile" type="Docker file" />
+      <mapping ext="build" type="Docker file" />
+      <mapping pattern="dockerfile" type="Dockerfile" />
+      <mapping pattern=".docker/webapp.dockerfile" type="Dockerfile" />
+      <mapping pattern="www" type="JavaScript" />
+      <mapping pattern="mazoea_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="keys/mazoea_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="base/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="nginx file type" />
+    </extensionMap>
+  </component>
+</application>
